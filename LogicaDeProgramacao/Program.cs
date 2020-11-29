@@ -60,6 +60,11 @@ namespace LogicaDeProgramacao
             //Console.WriteLine($" {um} células de r$1,00");
             //Console.WriteLine($"Total:{entrada}");
             #endregion
+
+            #region Formatacao
+            //string cpf = "";
+            //var cpfForm = Convert.ToUInt64(cpf).ToString(@"000\.000\.000\-00");
+            #endregion
         }
     }
 }
